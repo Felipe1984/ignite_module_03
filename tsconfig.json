@@ -10,7 +10,8 @@
     "paths": {
       "styles/*": ["src/styles", "src/styles/*"],
       "components/*": ["src/components", "src/components/*"],
-      "images/*": ["public/images", "public/images/*"]
+      "images/*": ["public/images", "public/images/*"],
+      "services/*": ["src/services", "src/services/*"]
     },
     "allowJs": true,
     "skipLibCheck": true,
