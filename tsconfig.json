@@ -11,7 +11,8 @@
       "styles/*": ["src/styles", "src/styles/*"],
       "components/*": ["src/components", "src/components/*"],
       "images/*": ["public/images", "public/images/*"],
-      "services/*": ["src/services", "src/services/*"]
+      "services/*": ["src/services", "src/services/*"],
+      "utils/*": ["src/utils", "src/utils/*"],
     },
     "allowJs": true,
     "skipLibCheck": true,
